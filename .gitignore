@@ -22,4 +22,8 @@ Thumbs.db
 
 # editors
 .vscode
+<<<<<<< HEAD
 .idea
+=======
+.idea
+>>>>>>> 281653a58a18b7ca8996948ffabb221804a6a949
